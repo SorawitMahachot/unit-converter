@@ -1,0 +1,6 @@
+{
+  "name": "Unit Converter",
+  "description": "เว็บแอปพลิเคชันแปลงหน่วย (Unit Converter) สไตล์ Modern Minimalist แปลงหน่วยแบบ Real-time พร้อมฟังก์ชันสลับหน่วยและ Dark Mode",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
